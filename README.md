@@ -25,7 +25,7 @@ A simple and responsive **Blog Website** built using **HTML**, **CSS**, and **Ja
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/im-keshav/blog-website.git
+git clone https://github.com/im-keshav/Blog-Website-.git
 
 Made with ❤️ by Keshav
 GitHub: @im-keshav
